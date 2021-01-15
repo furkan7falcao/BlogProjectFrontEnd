@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGoDxdjLSPSonodz+/jsOxKac3X2PYbJ377+WlQsX1OMoHrlfkymeq8fitPdSW09TqVFcEUA1xPof+wor+HlYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\FurkanBlogProjectFrontEnd\\FurkanBlogProjectFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
